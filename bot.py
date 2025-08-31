@@ -3,7 +3,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 import os
 
 # Токен берём из переменной окружения (безопасно!)
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("8257985518:AAGlJSJb4LtwUZ_tGlUem1UERC1jbtIeOvg")
 
 # Ссылка на твой GitHub Pages сайт с radio.html
 WEBAPP_URL = "https://yourusername.github.io/telegram-radio/radio.html"
