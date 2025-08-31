@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 TOKEN = "8257985518:AAGlJSJb4LtwUZ_tGlUem1UERC1jbtIeOvg"
 
 # Ссылка на твой GitHub Pages сайт с radio.html
-WEBAPP_URL = "https://yourusername.github.io/telegram-radio/radio.html"
+WEBAPP_URL = "https://eugenleo048.github.io/telegram-radio/radio.html"
 
 # Команда /start
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
